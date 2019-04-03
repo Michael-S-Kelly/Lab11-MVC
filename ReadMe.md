@@ -32,8 +32,10 @@ Then select and open ```DontWineAboutIt.sln```
 ## Visuals
 
 
-##### Application Start
-![Image 1](Assets/NavMenu.PNG)
+##### Home Page
+![Image 1](Assets/HomePage.PNG)
+##### Results Page
+![Image 1](Assets/HomePage.PNG)
 
 ------------------------------
 
@@ -46,7 +48,8 @@ Then select and open ```DontWineAboutIt.sln```
 ## Collaborators, Contributors, and Other Resources used
 
 ### Collaborators
-
+Amanda Iverson
+Jason Few
 
 ### Contributors
 
@@ -56,6 +59,7 @@ Then select and open ```DontWineAboutIt.sln```
 #### Microsoft Visual C# Step by Step Ninth Edition
 #### C# 7.0 in a Nutshell
 #### C# Pocket Reference
+https://stackoverflow.com/questions/3268622/regex-to-split-line-csv-file
 
 
 ------------------------------
