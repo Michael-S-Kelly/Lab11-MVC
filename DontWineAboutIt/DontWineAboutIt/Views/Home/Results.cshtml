@@ -1,0 +1,16 @@
+﻿@model IEnumerable<DontWineAboutIt.Models.Wine>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Don't Wine About It</title>
+    <link rel="stylesheet" href="~/StyleSheet.css" />
+</head>
+<body>
+     Here is your list of wines fitting your desire.
+
+    @foreach (var item in Model)
+    {
+        <p>@item.Country @item.Description @item.Points @item.Price @item.Winery</p>
+    }
+</body>
+</html>
